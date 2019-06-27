@@ -1,0 +1,15 @@
+{
+  "name": "creeyon",
+  "version": "0.1.0",
+  "description": "creeyon html email",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "MJ",
+  "license": "ISC",
+  "homepage": "https://mjkimi.github.io/creeyon",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
